@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Boutique Abbigliamento** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://boutique-abbigliamento.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-boutique-abbigliamento/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-boutique-abbigliamento/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-boutique-abbigliamento.git
-cd federico-demo-boutique-abbigliamento
+git clone https://github.com/fedcal/demo-boutique-abbigliamento.git
+cd demo-boutique-abbigliamento
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:boutique-abbigliamento
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-boutique-abbigliamento/
+→ https://fedcal.github.io/demo-boutique-abbigliamento/
 
 ## Hub demos Federico
 

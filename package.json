@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-boutique-abbigliamento",
+  "name": "demo-boutique-abbigliamento",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Boutique Abbigliamento — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://boutique-abbigliamento.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-boutique-abbigliamento.git"
+    "url": "https://github.com/fedcal/demo-boutique-abbigliamento.git"
   },
   "scripts": {
     "ng": "ng",
