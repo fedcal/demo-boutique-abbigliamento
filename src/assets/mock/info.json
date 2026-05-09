@@ -1,0 +1,48 @@
+{
+  "ragioneSociale": "Bianca Boutique S.r.l.",
+  "nomeCommerciale": "Bianca Boutique — Moda Donna Brera",
+  "tagline": "Moda donna ricercata — Milano Brera",
+  "indirizzo": {
+    "via": "Via Madonnina 8",
+    "citta": "Milano",
+    "provincia": "MI",
+    "cap": "20121",
+    "regione": "Lombardia",
+    "paese": "Italia",
+    "lat": 45.4719,
+    "lng": 9.1845
+  },
+  "contatti": {
+    "telefono": "+39 02 8765 4321",
+    "whatsapp": "+39 349 8765 432",
+    "email": "info@biancaboutique.it",
+    "social": {
+      "instagram": "https://instagram.com/biancaboutique_demo",
+      "facebook": "https://facebook.com/biancaboutique_demo",
+      "pinterest": "https://pinterest.com/biancaboutique_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "10:00 – 19:30",
+    "martedi": "10:00 – 19:30",
+    "mercoledi": "10:00 – 19:30",
+    "giovedi": "10:00 – 19:30",
+    "venerdi": "10:00 – 19:30",
+    "sabato": "10:00 – 20:00",
+    "domenica": "11:00 – 18:00"
+  },
+  "servizi": {
+    "clickAndCollect": true,
+    "consegnaACasa": true,
+    "giftCard": true,
+    "alterazioni": true,
+    "accessibileDisabili": true,
+    "wifiGratuito": true,
+    "parcheggioVicino": true
+  },
+  "metaSeo": {
+    "title": "Bianca Boutique — Moda donna ricercata, Milano Brera",
+    "description": "Boutique moda donna nel cuore di Brera, Milano. Capi selezionati, brand esclusivi, atmosfera ricercata. Via Madonnina 8.",
+    "keywords": ["boutique milano", "moda donna brera", "abbigliamento donna milano", "boutique brera", "moda italiana donna"]
+  }
+}

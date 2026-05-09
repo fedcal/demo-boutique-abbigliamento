@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Qual è la vostra politica di reso?",
+      "risposta": "Accettiamo resi entro 14 giorni dall'acquisto per capi non indossati, con cartellino integro e scontrino. Il cambio è gratuito; il rimborso viene effettuato sullo stesso metodo di pagamento entro 5 giorni lavorativi."
+    },
+    {
+      "domanda": "Come funziona la guida alle taglie?",
+      "risposta": "Ogni scheda prodotto riporta la tabella misure del brand corrispondente. I nostri consulenti sono disponibili per un fitting personalizzato in boutique, senza appuntamento. Online puoi scriverci via WhatsApp con le tue misure e ti guidiamo."
+    },
+    {
+      "domanda": "Offrite gift card?",
+      "risposta": "Sì, le gift card Bianca Boutique sono disponibili in tagli da €50, €100, €200 e €500. Si acquistano in boutique o via email. Validità 12 mesi dall'acquisto, non rimborsabili in contanti."
+    },
+    {
+      "domanda": "Come funziona il Click & Collect?",
+      "risposta": "Puoi prenotare un capo scrivendoci via email o WhatsApp. Lo teniamo da parte 48 ore. Ritiro in boutique senza costi aggiuntivi, pagamento in loco o anticipato via bonifico/carta online."
+    },
+    {
+      "domanda": "Eseguite sconti o promozioni?",
+      "risposta": "Due saldi stagionali (gennaio e luglio) con riduzioni fino al 40% su capi selezionati. Le clienti iscritte alla newsletter ricevono accesso anticipato ai saldi e sconti esclusivi per eventi privati."
+    },
+    {
+      "domanda": "Effettuate alterazioni e modifiche?",
+      "risposta": "Sì, collaboriamo con una sarta di fiducia a pochi passi dalla boutique. Gestire l'orlo di un abito, stringere una giacca o modificare una manica: preventivo gratuito, tempistiche 3–7 giorni."
+    },
+    {
+      "domanda": "Consegnate a domicilio o fuori Milano?",
+      "risposta": "Sì, spediamo in tutta Italia tramite corriere espresso (24-48h, €8 oppure gratuita sopra €300). Spedizioni internazionali disponibili in UE e UK su richiesta. Imballaggio curato, ogni acquisto è accompagnato da tissue e shopper brandizzata."
+    },
+    {
+      "domanda": "Come posso sapere se un capo è ancora disponibile?",
+      "risposta": "La disponibilità in boutique può differire dallo stock mostrato online. Contattateci prima dell'acquisto via WhatsApp o email: rispondiamo entro 30 minuti negli orari di apertura."
+    }
+  ]
+}

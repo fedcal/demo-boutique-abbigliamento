@@ -1,0 +1,31 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Bianca Ferretti",
+      "ruolo": "Owner & Creative Director",
+      "bio": "Laureata allo IED di Milano, Bianca ha fondato la boutique nel 2009 dopo esperienze presso showroom di Parigi e Londra. Seleziona ogni capo della collezione con occhio critico e visione precisa.",
+      "anniEsperienza": 17,
+      "image": "/assets/img/team/bianca.jpg",
+      "specialita": ["Buyer internazionale", "Curatela collezioni", "Styling eventi"]
+    },
+    {
+      "id": 2,
+      "nome": "Chiara Lombardi",
+      "ruolo": "Senior Sales Consultant",
+      "bio": "Personal shopper certificata con oltre 12 anni di esperienza in boutique di lusso milanesi. Specializzata in consulenza d'immagine e abbinamenti per occasioni speciali.",
+      "anniEsperienza": 12,
+      "image": "/assets/img/team/chiara.jpg",
+      "specialita": ["Personal shopping", "Consulenza d'immagine", "Abiti da cerimonia"]
+    },
+    {
+      "id": 3,
+      "nome": "Martina Greco",
+      "ruolo": "Sales Associate & Visual Merchandiser",
+      "bio": "Appassionata di visual merchandising e sostenibilità nella moda. Cura l'allestimento della boutique e accoglie le clienti con entusiasmo genuino.",
+      "anniEsperienza": 5,
+      "image": "/assets/img/team/martina.jpg",
+      "specialita": ["Visual merchandising", "Moda sostenibile", "Clienti internazionali"]
+    }
+  ]
+}
